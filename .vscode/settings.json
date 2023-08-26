@@ -1,0 +1,8 @@
+{
+          "terminal.integrated.copyOnSelection": true,
+          "terminal.integrated.enablePersistentSessions": true,
+          "terminal.integrated.environmentChangesRelaunch": true,
+          "terminal.integrated.fontSize": 12,
+          "terminal.integrated.shellIntegration.suggestEnabled": true,
+          "terminal.integrated.tabs.defaultColor": "terminal.ansiBlack"
+}
